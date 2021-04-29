@@ -1,4 +1,4 @@
-# Personal Web Portfolio
+# Personal Project
 
 ## Built with
 * [Django 2.2.2](https://www.djangoproject.com/)
